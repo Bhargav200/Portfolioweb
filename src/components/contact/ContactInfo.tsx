@@ -18,7 +18,7 @@ export function ContactInfo() {
           </div>
           <div>
             <p className="text-sm text-gray-400">Email</p>
-            <p className="text-white group-hover:text-primary transition-colors">john@example.com</p>
+            <p className="text-white group-hover:text-primary transition-colors">apbrt.171250172@gmail.com</p>
           </div>
         </a>
         
@@ -28,7 +28,7 @@ export function ContactInfo() {
           </div>
           <div>
             <p className="text-sm text-gray-400">Phone</p>
-            <p className="text-white group-hover:text-primary transition-colors">+1 (555) 123-4567</p>
+            <p className="text-white group-hover:text-primary transition-colors">+91 9885******</p>
           </div>
         </a>
         
@@ -38,7 +38,7 @@ export function ContactInfo() {
           </div>
           <div>
             <p className="text-sm text-gray-400">Location</p>
-            <p className="text-white">San Francisco, CA</p>
+            <p className="text-white">Secunderabad,Telangana</p>
           </div>
         </div>
       </div>
@@ -46,10 +46,10 @@ export function ContactInfo() {
       <div className="pt-8 border-t border-primary/10">
         <p className="text-gray-400 mb-4">Find me on</p>
         <div className="flex space-x-4">
-          <a href="https://github.com" className="w-10 h-10 bg-dark-lighter rounded-lg flex items-center justify-center hover:bg-primary/20 transition-colors">
+          <a href="https://github.com/Bhargav200" className="w-10 h-10 bg-dark-lighter rounded-lg flex items-center justify-center hover:bg-primary/20 transition-colors">
             <Github className="w-5 h-5 text-primary" />
           </a>
-          <a href="https://linkedin.com" className="w-10 h-10 bg-dark-lighter rounded-lg flex items-center justify-center hover:bg-primary/20 transition-colors">
+          <a href="https://www.linkedin.com/in/bhargavraviteja/" className="w-10 h-10 bg-dark-lighter rounded-lg flex items-center justify-center hover:bg-primary/20 transition-colors">
             <Linkedin className="w-5 h-5 text-primary" />
           </a>
         </div>

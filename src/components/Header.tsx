@@ -36,10 +36,10 @@ export function Header() {
           </a>
         </div>
         <div className="hidden md:flex space-x-4">
-          <a href="https://github.com" className="text-gray-300 hover:text-primary transition">
+          <a href="https://github.com/Bhargav200" className="text-gray-300 hover:text-primary transition">
             <Github className="w-5 h-5" />
           </a>
-          <a href="https://linkedin.com" className="text-gray-300 hover:text-primary transition">
+          <a href="https://www.linkedin.com/in/bhargavraviteja/" className="text-gray-300 hover:text-primary transition">
             <Linkedin className="w-5 h-5" />
           </a>
           <a href="mailto:john@example.com" className="text-gray-300 hover:text-primary transition">

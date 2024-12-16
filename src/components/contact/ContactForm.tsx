@@ -10,7 +10,7 @@ export function ContactForm() {
         <input
           type="text"
           className="w-full px-4 py-3 bg-dark-lighter border border-primary/20 rounded-lg focus:ring-2 focus:ring-primary focus:border-transparent text-white placeholder-gray-400"
-          placeholder="John Doe"
+          placeholder="-----your name  !!!"
         />
       </div>
       <div>
@@ -20,7 +20,7 @@ export function ContactForm() {
         <input
           type="email"
           className="w-full px-4 py-3 bg-dark-lighter border border-primary/20 rounded-lg focus:ring-2 focus:ring-primary focus:border-transparent text-white placeholder-gray-400"
-          placeholder="john@example.com"
+          placeholder="goes like @gmail.com,@outlook or any other"
         />
       </div>
       <div>
@@ -30,7 +30,7 @@ export function ContactForm() {
         <textarea
           rows={4}
           className="w-full px-4 py-3 bg-dark-lighter border border-primary/20 rounded-lg focus:ring-2 focus:ring-primary focus:border-transparent text-white placeholder-gray-400"
-          placeholder="Your message here..."
+          placeholder="State your purpose."
         ></textarea>
       </div>
       <button

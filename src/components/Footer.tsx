@@ -2,6 +2,7 @@ import React from 'react';
 import { Github, Linkedin, Mail } from 'lucide-react';
 import { SpaceLogo } from './SpaceLogo';
 
+
 export function Footer() {
   return (
     <footer className="bg-dark relative overflow-hidden">
@@ -15,7 +16,7 @@ export function Footer() {
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="mb-8 md:mb-0">
             <SpaceLogo />
-            <p className="text-gray-400 mt-4 font-mono">Building digital experiences</p>
+            <p className="text-gray-400 mt-2 font-mono">Pioneering Innovation at the Nexus of AI and Cutting-Edge Technologies</p>
           </div>
           
           <div className="flex flex-col items-center md:items-end">

@@ -1,12 +1,13 @@
 import React from 'react';
+import logo from '../assets/apbrt-logo.png';
 
 export function SpaceLogo() {
   return (
     <div className="flex items-center">
       <img 
-        src="https://raw.githubusercontent.com/apbrt/apbrt/main/logo.png" 
+        src={logo}
         alt="APBRT Logo" 
-        className="h-12 w-auto hover:opacity-80 transition-opacity"
+        className="h-28 w-auto hover:opacity-80 transition-opacity ml-[-10px]"
       />
     </div>
   );
