@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+
 import { Upload, Image as ImageIcon, X } from 'lucide-react';
 
 export function ImageUpload() {
